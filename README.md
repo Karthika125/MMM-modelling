@@ -15,10 +15,10 @@ Google spend is treated as a mediator between social/display channels (Facebook,
 This reflects the idea that social media advertising stimulates search intent, which increases Google spend, and in turn contributes to revenue.
 
 Folder Structure
-MMM_Modeling/
+ASSESSMENT2/
 │
 ├── data/
-│   └── weekly_data.csv         # Input dataset (2 years weekly)
+│   └── Assesment 2-MMM weekly_data.csv         # Input dataset (2 years weekly)
 │
 ├── outputs/                    # Auto-generated when running
 │   ├── feature_importance.png  # Visualization of key drivers
